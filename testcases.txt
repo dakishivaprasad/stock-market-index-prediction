@@ -1,0 +1,13 @@
+Symbols				
+
+^NSEI				
+HDFCBANK.NS				
+INFY.NS				
+BPCL.NS				
+TCS.NS				
+SBIN.NS				
+ITC.NS				
+LT.NS				
+UPL.NS				
+CIPLA.NS				
+ITC.NS				
